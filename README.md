@@ -8,7 +8,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [WeDevelop4you](https://wedevelop4you.nl/Contact)
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I meet a simple shell script for Laravel that builds your javascript/css files and starts a local server in the background. Its build for linux and it works also on [WSL](https://docs.microsoft.com/en-us/windows/wsl/about). You can view the project [here](https://github.com/L27SlubbyGames/Laravel-Vue-Easy-Run-Script).
+- ⚡ Fun fact: I made a simple shell script for Laravel that builds your javascript/css files and starts a local server in the background. Its build for linux and it works also on [WSL](https://docs.microsoft.com/en-us/windows/wsl/about). You can view the project [here](https://github.com/L27SlubbyGames/Laravel-Vue-Easy-Run-Script).
 
 #### :star: Favorite project's
 - Youtube Row Fixer
