@@ -1,16 +1,17 @@
 ### Hi there 👋, I'm Pascal Huberts
 
-<!--
-**L27SlubbyGames/L27SlubbyGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin badge](https://img.shields.io/badge/Pascal_Huberts-30302f?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pascal-huberts-b1a602179/)
+[![WeDevelop4You](https://img.shields.io/badge/WeDevelop4You-30302f?style=flat-square&logo=github)](https://github.com/WeDevelop4You)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Laravel](https://laravel.com/) and [Vue.js](https://vuejs.org/)
+- 🌱 I’m currently learning Application Developer
+- 💬 Ask me about anything
+- 📫 How to reach me: [WeDevelop4you](https://wedevelop4you.nl/Contact)
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: I meet a simple shell script for Laravel that builds your javascript/css files and starts a local server in the background. Its build for linux and it works also on [WSL](https://docs.microsoft.com/en-us/windows/wsl/about). You can view the project [here](https://github.com/L27SlubbyGames/Laravel-Vue-Easy-Run-Script).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Project's
+- Youtube Row Fixer
+
+  ![users](https://img.shields.io/amo/users/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?label=Firefox%20users&style=flat-square&logoColor=30302f)
+  ![Mozilla Add-on](https://img.shields.io/amo/dw/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?label=Firefox%20downloads&logoColor=30302f&style=flat-square)
