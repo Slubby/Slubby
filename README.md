@@ -16,3 +16,6 @@
   [![users](https://img.shields.io/amo/users/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?color=009bff&label=Users&logo=firefox&logoColor=ffffff&style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/)
   [![Mozilla Add-on](https://img.shields.io/amo/dw/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?color=009bff&label=Downloads&logo=firefox&logoColor=ffffff&style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/)
   [![Mozilla Add-on](https://img.shields.io/amo/stars/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?color=009bff&label=Reviews&logo=firefox&logoColor=ffffff&style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/)
+  [![GitHub stars](https://img.shields.io/github/stars/RootOperator/Youtube-row-fixer?color=009bff&label=Stars&logo=github&logoColor=ffffff&style=flat-square)](https://github.com/RootOperator/Youtube-row-fixer)
+  
+  [RootOperator](https://github.com/RootOperator) and I have made a extension that lets you fix YouTube's new layout by giving you the power to set the amount of videos on one row. The extension is only made for Firefox a can be downloaded [here](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/) and the source code [here](https://github.com/RootOperator/YouTube-row-fixer)
