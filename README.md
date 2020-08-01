@@ -10,8 +10,9 @@
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I meet a simple shell script for Laravel that builds your javascript/css files and starts a local server in the background. Its build for linux and it works also on [WSL](https://docs.microsoft.com/en-us/windows/wsl/about). You can view the project [here](https://github.com/L27SlubbyGames/Laravel-Vue-Easy-Run-Script).
 
-#### Project's
+#### :star: Favorite project's
 - Youtube Row Fixer
 
-  ![users](https://img.shields.io/amo/users/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?label=Firefox%20users&style=flat-square&logoColor=30302f)
-  ![Mozilla Add-on](https://img.shields.io/amo/dw/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?label=Firefox%20downloads&logoColor=30302f&style=flat-square)
+  [![users](https://img.shields.io/amo/users/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?color=009bff&label=Users&logo=firefox&logoColor=ffffff&style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/)
+  [![Mozilla Add-on](https://img.shields.io/amo/dw/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?color=009bff&label=Downloads&logo=firefox&logoColor=ffffff&style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/)
+  [![Mozilla Add-on](https://img.shields.io/amo/stars/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?color=009bff&label=Reviews&logo=firefox&logoColor=ffffff&style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/)
