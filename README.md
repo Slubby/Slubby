@@ -14,7 +14,7 @@
 - Youtube Row Fixer
 
   [![users](https://img.shields.io/amo/users/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?color=009bff&label=Users&logo=firefox&logoColor=ffffff&style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/)
-  [![Mozilla Add-on](https://img.shields.io/amo/dw/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?color=009bff&label=Downloads&logo=firefox&logoColor=ffffff&style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/)
+  [![Mozilla Add-on](https://img.shields.io/amo/dj/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?color=009bff&label=Downloads&logo=firefox&logoColor=ffffff&style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/)
   [![Mozilla Add-on](https://img.shields.io/amo/stars/%7B528dea52-7c0b-43a6-b899-85e7952022c3%7D?color=009bff&label=Reviews&logo=firefox&logoColor=ffffff&style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/youtube-row-fixer/)
   [![GitHub stars](https://img.shields.io/github/stars/RootOperator/Youtube-row-fixer?color=009bff&label=Stars&logo=github&logoColor=ffffff&style=flat-square)](https://github.com/RootOperator/Youtube-row-fixer)
   
