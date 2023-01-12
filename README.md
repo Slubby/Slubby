@@ -12,7 +12,7 @@
 
 #### :star: Favorite project's
 - Systrive
-  My main project for trying new thing and learn. [here](https://github.com/WeDevelop4You/Systrive) 
+  My main project for trying new thing and learn. View [here](https://github.com/WeDevelop4You/Systrive) 
 
 - Youtube Row Fixer
 
